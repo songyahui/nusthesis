@@ -243,24 +243,26 @@
 
   \begin{center}
     \blocklt{\@title}\par
-    \vspace{14pt minus 4pt}
-    by \par
+    \vspace{154pt minus 4pt}
+    %by \par
     \blocklt{\@author}
     \ifdefined \@prevdegrees
       \par\vspace{-10pt}\textit{(\@prevdegrees)}
     \fi\par
-    \vspace{28pt minus 8pt}
-    \blocklt{A thesis submitted for the degree of} \par
-    \blocklt{\@degree}\par
-    in \par
-    \blocklt{\@field}\par
-    in the \par
-    \blocklt{Graduate Division} \par
-    of the \par
+    \vspace{158pt minus 8pt}
+    %\blocklt{A thesis submitted for the degree of} \par
+    \blocklt{Thesis Proposal } \par
+    %\blocklt{\@degree}\par
+    \blocklt{SUBMITTED TO DEPARTMENT OF COMPUTER SCIENCE}\par
+    %in \par
+    %\blocklt{\@field}\par
+    %in the \par
+    %\blocklt{Graduate Division} \par
+    %of the \par
     \blocklt{National University of Singapore} \par
-    \vspace{28pt minus 8pt}
+    \vspace{18pt minus 8pt}
     \blocklt{\@degreeyear} \par
-    \vspace{14pt minus 4pt}
+    \vspace{24pt minus 4pt}
     \ifdefined \@cosupervisor
       Supervisors: \par\vspace{-10pt}
       {\@supervisor}, Main Supervisor \\
